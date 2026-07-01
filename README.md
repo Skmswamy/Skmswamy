@@ -4,7 +4,7 @@
 
 Most people in my role stop at the spec. I keep going — I open the editor and make the thing. This little corner of GitHub is where the side quests live.
 
-**🔨 Currently building:** [**Move**](https://github.com/Skmswamy/Move) — an iOS app I'm designing *and* coding in SwiftUI, end to end, just to see how far I can take an idea solo.
+**🔨 Currently building:** [**Move**](https://github.com/Skmswamy/Move) — an iOS app I'm working on, end to end, just to see how far I can take an idea solo.
 
 **🧩 What I love:** taking a messy, tangled problem and finding the one simple fix that quietly makes it all work.
 
