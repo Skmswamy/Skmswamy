@@ -1,6 +1,6 @@
 # Hey, I'm Mallikarjuna 👋
 
-### A product manager who can't stop building.
+### A product manager with too many ideas but too less time to build.
 
 This little corner of GitHub is where the side quests live.
 
