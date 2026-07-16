@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="assets/brain-skip.svg" width="360" alt="Line drawing of a brain skipping rope" />
+
 # Hey, I'm Mallikarjuna 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&center=true&vCenter=true&width=560&lines=A+product+manager+with+too+many+ideas...;...and+too+less+time+to+build+them.;This+corner+of+GitHub+is+where+the+side+quests+live+%F0%9F%97%BA%EF%B8%8F" alt="A product manager with too many ideas but too less time to build. This corner of GitHub is where the side quests live." />
